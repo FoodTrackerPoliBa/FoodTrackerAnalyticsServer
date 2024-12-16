@@ -1,0 +1,3 @@
+fastapi
+hypercorn
+google-cloud-bigquery
